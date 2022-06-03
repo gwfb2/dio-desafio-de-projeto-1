@@ -1,4 +1,4 @@
-# Alguns comandos do Git Bash :computer:
+﻿# Alguns comandos do Git Bash :computer:
 
 ## Repositório Local
 
@@ -18,9 +18,7 @@
 
 - git remote add origin: adiciona o link para o qual o Git enviará seu repositório no Hub.
 - git push origin master/main: "empurra" a commit de seu repos. local para o GitHub, o repos. remoto.
-- git pull origin master/main: "puxa" para seu repos. local a última commit do projeto salva no GitHub. 
-
-
+- git pull origin master/main: "puxa" para seu repos. local a última commit do projeto salva no GitHub. Pode ser feito o merge (fusão) automaticamente; caso contrário o terá de fazer manualmente.
 
 [Faça download do Git](https://git-scm.com/downloads)
 
