@@ -18,7 +18,7 @@
 
 - git remote add origin: adiciona o link para o qual o Git enviará seu repositório no Hub.
 - git push origin master: "empurra" a commit de seu repos. local para o GitHub, o repos. remoto.
-- git pull origin master: "puxa" para seu repos. local a última versão do projeto salva no GitHub. 
+- git pull origin master: "puxa" para seu repos. local a última commit do projeto salva no GitHub. 
 
 
 
